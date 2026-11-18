@@ -48,3 +48,9 @@ We will send a written scope for review. If you would like a walkthrough,
 send the questions you want covered in the same email thread.
 
 Robert Hampton | Order Reliability Sprint
+
+## Review for roofing and HVAC offices
+
+The separate [open estimate review pilot](FIELD-SERVICE.md) covers one
+office's existing estimate queue, with a USD 1,500 fixed introductory fee
+and five business days after written approval and complete agreed inputs.
