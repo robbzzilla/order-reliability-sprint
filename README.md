@@ -54,3 +54,10 @@ Robert Hampton | Order Reliability Sprint
 The separate [open estimate review pilot](FIELD-SERVICE.md) covers one
 office's existing estimate queue, with a USD 1,500 fixed introductory fee
 and five business days after written approval and complete agreed inputs.
+
+## Trading platform technology
+
+The separate [trading technology discussion](PLATFORM-TECHNOLOGY.md)
+covers proposed software subscriptions, component licensing and a defined
+technology sale. A customer release and hosted service are in preparation;
+start with a written fit discussion about one workflow.
