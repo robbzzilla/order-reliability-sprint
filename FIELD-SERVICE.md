@@ -48,7 +48,11 @@ own system.
 For an estimate follow-up review, check that the export can show the
 estimate ID, current revision and status, date sent, quote value, and
 the last follow-up date and whether follow-up is permitted. Use the
-same anonymous estimate ID across files.
+same anonymous estimate ID across files. If your CRM tracks the next
+scheduled reminder or a responsible office role, include those fields
+without personal details. A future reminder stays on the existing
+schedule. When follow-up history is missing, the office verifies it
+before deciding whether to contact the customer.
 
 For an approved-estimate handoff review, also check whether the office
 can identify approved estimates, match each to any existing job, and
