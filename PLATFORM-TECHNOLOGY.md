@@ -39,6 +39,12 @@ you are considering, the budget available for evaluation, and who would
 accept the result. We can discuss permitted synthetic or redacted inputs,
 expected behavior, delivery scope and payment terms in the same thread.
 
+For a paid evaluation, we agree on the expected order behavior, evidence
+cutoff, fee and acceptance criteria before work begins. The report records
+the order disposition supported by the evidence, what remains unresolved,
+and what the reviewer should verify next. It also records whether the
+workflow warrants recurring review.
+
 Any service or integration scope must define customer data and access
 boundaries. The customer retains control of its brokerage accounts,
 trading decisions and deployment.
@@ -46,7 +52,8 @@ trading decisions and deployment.
 ## Contact Robert Hampton
 
 [Request a written evaluation](mailto:orderreliabilitysprint@gmail.com?subject=Trading%20platform%20evaluation&body=Hi%20Robert%2C%0D%0A%0D%0AI'd%20like%20to%20discuss%20an%20evaluation%20of%20one%20trading-platform%20workflow.%0D%0A%0D%0ACommercial%20path%20(subscription%20evaluation%2C%20component%20license%2C%20or%20asset%20purchase)%3A%0D%0ABroker%20or%20adapter%3A%0D%0AWorkflow%20to%20evaluate%3A%0D%0AEngineering%20owner%20and%20target%20date%3A%0D%0AEvaluation%20budget%2C%20if%20known%3A).
-The email template asks which commercial path and workflow you want
-to discuss. Keep live credentials, account identifiers and customer
+You can also email **orderreliabilitysprint@gmail.com** with the subject
+**Trading platform evaluation**. Include the commercial path, broker or
+adapter, and workflow. Keep live credentials, account identifiers and customer
 records out of the initial inquiry. If you would like a walkthrough,
 send the questions you want covered in writing.
