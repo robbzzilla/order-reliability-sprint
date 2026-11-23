@@ -49,6 +49,22 @@ the order disposition supported by the evidence, what remains unresolved,
 and what the reviewer should verify next. It also records whether the
 workflow warrants recurring review.
 
+### Fictional evaluation excerpt
+
+An application times out while submitting order C401 and records
+zero fills in each example. What the review can conclude depends on
+the broker evidence and whether the application retried.
+
+| Evidence at cutoff | Written finding |
+| --- | --- |
+| A broker export matches C401 to open order B401, and the application did not retry. | The broker accepted the order. B401 is open at the cutoff. |
+| The broker export still shows B401 as open, and the application records a later retry. | Review the duplicate submission attempt even though the fill totals are zero. |
+| Only the application request is available. | The broker outcome remains unverified. Request a complete, independent broker export covering C401. |
+
+This excerpt uses fictional records from an offline evidence review.
+The buyer decides what to do with the order. The report can be
+prepared from approved files without brokerage access.
+
 Any service or integration scope must define customer data and access
 boundaries. The customer retains control of its brokerage accounts,
 trading decisions and deployment.
