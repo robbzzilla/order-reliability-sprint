@@ -65,6 +65,10 @@ This excerpt uses fictional records from an offline evidence review.
 The buyer decides what to do with the order. The report can be
 prepared from approved files without brokerage access.
 
+[Download the fictional evidence example (JSON)](platform-evaluation-example.json).
+Use it to check whether the fields would support your review process.
+We agree on exact report fields with the buyer before kickoff.
+
 Any service or integration scope must define customer data and access
 boundaries. The customer retains control of its brokerage accounts,
 trading decisions and deployment.
