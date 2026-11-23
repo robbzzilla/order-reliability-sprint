@@ -1,0 +1,58 @@
+{
+  "description": "Illustrative written evaluation results for one lost-response workflow. Each case is separate and uses fictional records.",
+  "evidence_mode": "fictional",
+  "scope": "Offline evidence review of a single order-state workflow",
+  "cases": [
+    {
+      "case_id": "acknowledgement-missing",
+      "client_order_reference": "C401",
+      "application_observation": {
+        "submission_response": "missing",
+        "reported_fill_quantity": 0,
+        "later_retry_observed": false
+      },
+      "broker_observation": {
+        "matching_reference": "B401",
+        "state_at_cutoff": "open"
+      },
+      "expected_finding": {
+        "disposition": "accepted_open",
+        "separate_issue": null,
+        "owner_question": null
+      }
+    },
+    {
+      "case_id": "later-retry-observed",
+      "client_order_reference": "C401",
+      "application_observation": {
+        "submission_response": "missing",
+        "reported_fill_quantity": 0,
+        "later_retry_observed": true
+      },
+      "broker_observation": {
+        "matching_reference": "B401",
+        "state_at_cutoff": "open"
+      },
+      "expected_finding": {
+        "disposition": "accepted_open",
+        "separate_issue": "A later retry was recorded. Its broker outcome needs separate evidence.",
+        "owner_question": "Can the buyer match the later attempt to its own broker evidence?"
+      }
+    },
+    {
+      "case_id": "broker-evidence-missing",
+      "client_order_reference": "C401",
+      "application_observation": {
+        "submission_response": "missing",
+        "reported_fill_quantity": 0,
+        "later_retry_observed": null
+      },
+      "broker_observation": null,
+      "expected_finding": {
+        "disposition": "unverified",
+        "separate_issue": "The application records zero fills. No independent broker outcome is available.",
+        "owner_question": "Can the buyer provide an authorized broker export that covers C401 at the agreed cutoff?"
+      }
+    }
+  ]
+}
