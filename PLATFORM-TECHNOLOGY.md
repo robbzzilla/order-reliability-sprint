@@ -45,7 +45,8 @@ trading decisions and deployment.
 
 ## Contact Robert Hampton
 
-Email **[orderreliabilitysprint@gmail.com](mailto:orderreliabilitysprint@gmail.com)**
-with a high-level description. Keep live credentials, account identifiers
-and customer records out of the initial inquiry. If you would like a
-walkthrough, send the questions you want covered in writing.
+[Request a written evaluation](mailto:orderreliabilitysprint@gmail.com?subject=Trading%20platform%20evaluation&body=Hi%20Robert%2C%0D%0A%0D%0AI'd%20like%20to%20discuss%20an%20evaluation%20of%20one%20trading-platform%20workflow.%0D%0A%0D%0ACommercial%20path%20(subscription%20evaluation%2C%20component%20license%2C%20or%20asset%20purchase)%3A%0D%0ABroker%20or%20adapter%3A%0D%0AWorkflow%20to%20evaluate%3A%0D%0AEngineering%20owner%20and%20target%20date%3A%0D%0AEvaluation%20budget%2C%20if%20known%3A).
+The email template asks which commercial path and workflow you want
+to discuss. Keep live credentials, account identifiers and customer
+records out of the initial inquiry. If you would like a walkthrough,
+send the questions you want covered in writing.
