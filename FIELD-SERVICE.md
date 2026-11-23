@@ -28,6 +28,17 @@ Your office controls every customer message, scheduling decision and CRM
 change. The review uses exports; it does not require a new software purchase
 or promise recovered revenue.
 
+### Fictional worklist excerpt
+
+| Office evidence at the agreed cutoff | Worklist recommendation |
+| --- | --- |
+| The office confirms an approved estimate has no matching job. | Route it to the person who opens jobs. |
+| The office confirms job J122 exists and has no dated visit. | Route J122 to the scheduler. |
+| The job link is blank and the export does not establish whether a job exists. | Ask the office to verify the match before recommending a handoff. |
+
+The worklist uses substitute IDs. The office reviews the recommended step
+and makes the change in its own system.
+
 ## Scope and delivery
 
 The five-business-day delivery period begins after **written scope approval
