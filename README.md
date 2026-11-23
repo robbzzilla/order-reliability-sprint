@@ -65,6 +65,10 @@ The separate [open estimate review pilot](FIELD-SERVICE.md) covers one
 office's existing estimate queue, with a USD 1,500 fixed introductory fee
 and five business days after written approval and complete agreed inputs.
 
+[Request an estimate review scope](mailto:orderreliabilitysprint@gmail.com?subject=Open%20estimate%20review%20pilot&body=Hi%20Robert%2C%0D%0A%0D%0AI%27d%20like%20to%20discuss%20this%20pilot.%0D%0A%0D%0AOffice%20location%20and%20CRM%3A%20%0D%0AEstimate%20or%20scheduling%20gap%3A%20%0D%0AAvailable%20exports%20%28high-level%20only%29%3A%20%0D%0AWhen%20your%20office%20needs%20the%20worklist%20%28if%20known%29%3A%20%0D%0AWho%20would%20commission%20and%20review%20the%20pilot%3A%20%0D%0AWhere%20did%20you%20find%20this%20offer%3F%20%28optional%29%20). If you write from your email app, use **orderreliabilitysprint@gmail.com** and the subject **Open estimate review pilot**.
+Start with a high-level summary of the office and the estimate handoff it
+wants reviewed. Keep customer details and exports out of your first email.
+
 ## Trading platform technology
 
 The separate [trading technology discussion](PLATFORM-TECHNOLOGY.md)
