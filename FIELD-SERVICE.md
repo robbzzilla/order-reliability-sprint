@@ -43,6 +43,20 @@ and dated visit, so there is no worklist action. These excerpt rows use
 fictional IDs. The office reviews decisions and makes any changes in its
 own system.
 
+## Check what your office can export
+
+For an estimate follow-up review, check that the export can show the
+estimate ID, current revision and status, date sent, quote value, and
+the last follow-up date and whether follow-up is permitted. Use the
+same anonymous estimate ID across files.
+
+For an approved-estimate handoff review, also check whether the office
+can identify approved estimates, match each to any existing job, and
+verify whether that job has a dated visit. A blank link needs an office
+check before anyone opens a job. If the job or schedule evidence is
+unavailable, we can agree on an estimate-only review and leave the
+handoff unverified.
+
 ## Scope and delivery
 
 The five-business-day delivery period begins after **written scope approval
@@ -58,7 +72,7 @@ credentials out of the initial inquiry.
 
 ## Request a written scope
 
-[Request an estimate review scope](mailto:orderreliabilitysprint@gmail.com?subject=Open%20estimate%20review%20pilot&body=Hi%20Robert%2C%0D%0A%0D%0AI%27d%20like%20to%20discuss%20this%20pilot.%0D%0A%0D%0AOffice%20location%20and%20CRM%3A%20%0D%0AEstimate%20or%20scheduling%20gap%3A%20%0D%0AWhen%20your%20office%20needs%20the%20worklist%20%28if%20known%29%3A%20%0D%0AWho%20would%20commission%20and%20review%20the%20pilot%3A%20) or email **orderreliabilitysprint@gmail.com**.
+[Request an estimate review scope](mailto:orderreliabilitysprint@gmail.com?subject=Open%20estimate%20review%20pilot&body=Hi%20Robert%2C%0D%0A%0D%0AI%27d%20like%20to%20discuss%20this%20pilot.%0D%0A%0D%0AOffice%20location%20and%20CRM%3A%20%0D%0AEstimate%20or%20scheduling%20gap%3A%20%0D%0AAvailable%20exports%20%28high-level%20only%29%3A%20%0D%0AWhen%20your%20office%20needs%20the%20worklist%20%28if%20known%29%3A%20%0D%0AWho%20would%20commission%20and%20review%20the%20pilot%3A%20) or email **orderreliabilitysprint@gmail.com**.
 Start with a high-level summary. We will confirm fit and send a written
 scope before requesting any exports.
 
