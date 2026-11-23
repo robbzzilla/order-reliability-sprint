@@ -71,7 +71,13 @@ wants reviewed. Keep customer details and exports out of your first email.
 
 ## Trading platform technology
 
-The separate [trading technology discussion](PLATFORM-TECHNOLOGY.md)
-covers proposed software subscriptions, component licensing and a defined
-technology sale. A customer release and hosted service are in preparation;
-start with a written fit discussion about one workflow.
+Start with a **paid written evaluation** of one order-state or recovery
+workflow using synthetic or authorized redacted evidence. We agree on
+the scope, fixed fee and acceptance in writing before work starts. The
+[technology overview](PLATFORM-TECHNOLOGY.md) includes a fictional example
+and the proposed subscription, component licensing and asset-sale options.
+The customer release and hosted service are in preparation.
+
+[Request a written evaluation](mailto:orderreliabilitysprint@gmail.com?subject=Trading%20platform%20evaluation&body=Hi%20Robert%2C%0D%0A%0D%0AI'd%20like%20to%20discuss%20an%20evaluation%20of%20one%20trading-platform%20workflow.%0D%0A%0D%0ACommercial%20path%20(subscription%20evaluation%2C%20component%20license%2C%20or%20asset%20purchase)%3A%0D%0ADeliverable%2C%20required%20rights%20and%20approver%20role%20%28license%20or%20purchase%29%3A%0D%0ABroker%20or%20adapter%3A%0D%0AWorkflow%20to%20evaluate%3A%0D%0AEngineering%20owner%20and%20target%20date%3A%0D%0AEvaluation%20budget%2C%20if%20known%3A). You can also email **orderreliabilitysprint@gmail.com** with the subject **Trading platform evaluation**.
+Include the workflow, broker or adapter, and what you would pay to evaluate.
+Keep credentials, account identifiers and customer records out of the inquiry.
