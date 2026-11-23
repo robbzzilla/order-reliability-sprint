@@ -1,5 +1,7 @@
 # Order Reliability Sprint
 
+[Broker integration review](#what-we-check) · [Roofing and HVAC estimate review](FIELD-SERVICE.md) · [Trading platform technology](PLATFORM-TECHNOLOGY.md)
+
 **One broker integration. Four failure scenarios. Ten business days.**
 
 Robert Hampton offers a fixed-scope, AI-assisted engineering review for
