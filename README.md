@@ -35,7 +35,9 @@ readout. Each agreed case is marked **passed**, **failed** or
 | Submission timed out | 0 | 0 | Matched. The client order ID resolved to an open broker order. |
 
 These are fictional orders. Each finding in the pilot cites the records
-that support it or identifies the evidence still needed.
+that support it or identifies the evidence still needed. In the timeout
+case, a missing or ambiguous broker match leaves the result unverified,
+even when the application reports zero fills.
 
 ## How the engagement starts
 
