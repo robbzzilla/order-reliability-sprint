@@ -30,15 +30,18 @@ or promise recovered revenue.
 
 ### Fictional worklist excerpt
 
-| Office evidence at the agreed cutoff | Review result |
-| --- | --- |
-| The office confirms an approved estimate has no matching job. | Route it to the person who opens jobs. |
-| The office confirms job J122 exists and has no dated visit. | Route J122 to the scheduler. |
-| The job link is blank and the export does not establish whether a job exists. | Ask the office to verify the match before recommending a handoff. |
-| The office confirms the matching job has a dated visit. | Record a verified audit closure. |
+| Estimate | Evidence at the agreed cutoff | Worklist action |
+| --- | --- | --- |
+| Q104 | The quote is past the agreed review window, and the office confirms it has not followed up. | Office reviews whether to follow up. |
+| Q109 | The estimate is approved, and the office confirms there is no matching job. | Route to the person who opens jobs. |
+| Q122 | The office confirms job J122 exists and has no dated visit. | Scheduler uses the existing job J122. |
+| Q118 | The export is missing the contact history. | Office verifies the history before acting. |
+| Q112 | The customer opted out. | Exclude from follow-up. |
 
-The worklist uses substitute IDs. The office reviews the recommended step
-and makes the change in its own system.
+The audit records Q121 separately. The office verified the matching job
+and dated visit, so there is no worklist action. These excerpt rows use
+fictional IDs. The office reviews decisions and makes any changes in its
+own system.
 
 ## Scope and delivery
 
