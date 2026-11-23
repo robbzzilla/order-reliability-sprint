@@ -47,7 +47,7 @@ or offline. Your team owns formal certification and go-live.
 
 ## Request a written scope
 
-[Request a broker pilot scope](mailto:orderreliabilitysprint@gmail.com?subject=Broker%20order%20reliability%20pilot&body=Hi%20Robert%2C%0D%0A%0D%0AI%27d%20like%20to%20discuss%20this%20pilot.%0D%0A%0D%0ABroker%20or%20adapter%3A%20%0D%0AOrder-state%20problem%20to%20review%3A%20%0D%0AAvailable%20evidence%20%28sandbox%20results%20or%20redacted%20exports%29%3A%20%0D%0AEngineering%20reviewer%20and%20target%20date%3A%20) or email **orderreliabilitysprint@gmail.com**.
+[Request a broker pilot scope](mailto:orderreliabilitysprint@gmail.com?subject=Broker%20order%20reliability%20pilot&body=Hi%20Robert%2C%0D%0A%0D%0AI%27d%20like%20to%20discuss%20this%20pilot.%0D%0A%0D%0ABroker%20or%20adapter%3A%20%0D%0AOrder-state%20problem%20to%20review%3A%20%0D%0AAvailable%20evidence%20%28sandbox%20results%20or%20redacted%20exports%29%3A%20%0D%0AEngineering%20reviewer%20and%20target%20date%3A%20%0D%0ACommissioning%20team%2C%20if%20known%3A%20) or email **orderreliabilitysprint@gmail.com**.
 Start with a high-level summary. Keep live credentials and customer
 identifiers out of the inquiry. Send any walkthrough questions in the
 same email thread.
