@@ -23,10 +23,17 @@ evidence, prioritized findings with suggested fixes, and a written
 readout. Each agreed case is marked **passed**, **failed** or
 **unverified**. Follow-up questions stay in the same written thread.
 
-For example, a synthetic replay can show one 10-share broker execution
-recorded twice by an application as 20 shares. The report identifies the
-repeated execution ID and 10-share difference for investigation. This is
-an illustrative case, not a customer result.
+### Example findings from a synthetic replay
+
+| Scenario | Broker filled shares | Application filled shares | Finding |
+| --- | ---: | ---: | --- |
+| Duplicate delivery | 10 | 20 | Review. The application counted execution F101 twice. |
+| Fill missed on reconnect | 10 | 4 | Review. Execution F202 accounts for the missing six shares. |
+| Partial fill during cancellation | 3 | 3 | Matched. Both records show three shares filled and the balance canceled. |
+| Submission timed out | 0 | 0 | Matched. The client order ID resolved to an open broker order. |
+
+These are fictional orders. Each finding in the pilot cites the records
+that support it or identifies the evidence still needed.
 
 ## How the engagement starts
 
