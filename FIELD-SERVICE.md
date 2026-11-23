@@ -54,10 +54,9 @@ credentials out of the initial inquiry.
 
 ## Request a written scope
 
-Email **[orderreliabilitysprint@gmail.com](mailto:orderreliabilitysprint@gmail.com)**
-with your CRM, the estimate or scheduling gap, and who would review and
-commission the work. Start with a high-level summary. We will confirm fit
-and send a written scope before requesting any exports.
+[Request an estimate review scope](mailto:orderreliabilitysprint@gmail.com?subject=Open%20estimate%20review%20pilot&body=Hi%20Robert%2C%0D%0A%0D%0AI%27d%20like%20to%20discuss%20this%20pilot.%0D%0A%0D%0AOffice%20location%20and%20CRM%3A%20%0D%0AEstimate%20or%20scheduling%20gap%3A%20%0D%0AWho%20would%20commission%20and%20review%20the%20pilot%3A%20) or email **orderreliabilitysprint@gmail.com**.
+Start with a high-level summary. We will confirm fit and send a written
+scope before requesting any exports.
 
 Robert Hampton | Order Reliability Sprint
 
