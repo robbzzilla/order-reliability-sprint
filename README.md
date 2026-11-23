@@ -42,10 +42,11 @@ that support it or identifies the evidence still needed.
 We agree in writing on one integration, the four scenarios, expected
 order and fill behavior, input coverage, acceptance and payment terms.
 The ten-business-day delivery period begins after written scope approval
-and receipt of the complete agreed inputs. Your engineering contact
-supplies sandbox results or redacted application and broker exports.
-Work runs in a buyer-controlled sandbox
-or offline. Your team owns formal certification and go-live.
+and receipt of the complete agreed inputs. Your team runs any sandbox
+checks that require credentials and supplies the results or paired redacted
+application and broker exports. Keep live credentials and customer
+identifiers out of the engagement. Your team owns formal certification
+and go-live.
 
 ## Request a written scope
 
