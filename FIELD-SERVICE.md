@@ -30,6 +30,11 @@ or promise recovered revenue.
 
 ### Fictional worklist excerpt
 
+In the full sample, two of ten reviewed estimates went to the office for
+a follow-up decision. Those two quotes add up to USD 10,400 at the cutoff.
+The office uses its own records to confirm any replies or bookings after
+it acts.
+
 | Estimate | Evidence at the agreed cutoff | Worklist action |
 | --- | --- | --- |
 | Q104 | The quote is past the agreed review window, and the office confirms it has not followed up. | Office reviews whether to follow up. |
