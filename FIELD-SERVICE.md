@@ -72,6 +72,14 @@ without personal details. A future reminder stays on the existing
 schedule. When follow-up history is missing, the office verifies it
 before deciding whether to contact the customer.
 
+If your office uses Jobber, open the Quotes report under Insights and
+Reports. For a sent-quote batch, select **Sent within** and export only
+the agreed columns. A re-sent quote may appear in the selected period while
+its Sent date still shows the first send. Include the latest redacted
+contact record and any scheduled customer follow-up when available. Keep
+internal calendar reminders separate from outbound customer messages.
+[Jobber Quotes report](https://help.getjobber.com/en/articles/quotes-report/) · [Jobber reminders](https://help.getjobber.com/en/articles/reminders-on-the-schedule/)
+
 If your office uses ServiceTitan, check whether the Opportunity and
 Estimate Follow Up report can show both estimate status and opportunity
 status with the same anonymous keys. One opportunity can contain several
