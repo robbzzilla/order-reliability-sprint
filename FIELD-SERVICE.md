@@ -85,6 +85,14 @@ check before anyone opens a job. If the job or schedule evidence is
 unavailable, we can agree on an estimate-only review and leave the
 handoff unverified.
 
+If your office uses Housecall Pro and one approved estimate depends on
+price book items, check whether you can provide the approved estimate and
+the service or material reference used at approval. Use redacted item
+references, units and prices. If you have only the current price book,
+we can flag a difference for the office to verify. The office decides
+whether any estimate needs a correction.
+[Housecall Pro export guide](https://help.housecallpro.com/en/articles/7173129-price-book-import-or-export-services-and-materials)
+
 ## Scope and delivery
 
 The five-business-day delivery period begins after **written scope approval
