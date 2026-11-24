@@ -39,6 +39,12 @@ that support it or identifies the evidence still needed. In the timeout
 case, a missing or ambiguous broker match leaves the result unverified,
 even when the application reports zero fills.
 
+A separate synthetic check used broker fills of four and six shares.
+The application recorded five shares for each fill. Both totals were
+ten shares, and both execution quantities required review. To compare
+this case, the reviewer needs matching execution IDs and quantities
+from both records.
+
 ## How the engagement starts
 
 We agree in writing on one integration, the four scenarios, expected
