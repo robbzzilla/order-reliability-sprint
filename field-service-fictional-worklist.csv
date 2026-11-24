@@ -1,0 +1,7 @@
+"Record type","Fictional estimate ID","Evidence at the agreed cutoff","Office action"
+"Worklist","Q104","The quote is past the agreed review window, and the office confirms it has not followed up.","Office reviews whether to follow up."
+"Worklist","Q109","The estimate is approved, and the office confirms there is no matching job.","Route to the person who opens jobs."
+"Worklist","Q122","The office confirms job J122 exists and has no dated visit.","Scheduler uses the existing job J122."
+"Worklist","Q118","The export is missing the contact history.","Office verifies the history before acting."
+"Worklist","Q112","The customer opted out.","Exclude from follow-up."
+"Audit closure","Q121","The office verified a matching job and dated visit.","No action."

@@ -36,6 +36,9 @@ a follow-up decision. Those two quotes add up to USD 10,400 at the cutoff.
 The office uses its own records to confirm any replies or bookings after
 it acts.
 
+[Open the fictional worklist as a CSV](field-service-fictional-worklist.csv)
+to see the worklist decisions and audit closure in spreadsheet form.
+
 | Estimate | Evidence at the agreed cutoff | Worklist action |
 | --- | --- | --- |
 | Q104 | The quote is past the agreed review window, and the office confirms it has not followed up. | Office reviews whether to follow up. |
