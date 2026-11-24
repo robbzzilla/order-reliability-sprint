@@ -93,6 +93,13 @@ we can flag a difference for the office to verify. The office decides
 whether any estimate needs a correction.
 [Housecall Pro export guide](https://help.housecallpro.com/en/articles/7173129-price-book-import-or-export-services-and-materials)
 
+If your office uses Simpro, check whether you can provide the approved quote
+revision, selected cost centres and the matching job under the same anonymous
+references. A quote can be converted to a job before a visit is scheduled, so
+include separate evidence of the dated visit. If your export cannot link
+the quote to a job, the office verifies the link before opening or scheduling work.
+[Simpro quote conversion guide](https://developer.simprogroup.com/apidoc/?page=07adc9c3c19b7c17e7309e86c22161a2)
+
 ## Scope and delivery
 
 The five-business-day delivery period begins after **written scope approval
