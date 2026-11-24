@@ -43,6 +43,15 @@ and dated visit, so there is no worklist action. These excerpt rows use
 fictional IDs. The office reviews decisions and makes any changes in its
 own system.
 
+### When two work options cost the same
+
+A separate example has a $2,600 approved estimate that includes a $400
+motor option. The linked job has the same $2,600 total and a booked visit,
+and lists a $400 duct option in place of the approved work. The worklist
+sends the job to the office reviewer to confirm the selected option. For
+this check, supply the approved revision, selected work and corresponding
+job lines using the same anonymous references.
+
 ## Check what your office can export
 
 For an estimate follow-up review, check that the export can show the
