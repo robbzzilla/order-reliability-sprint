@@ -63,6 +63,15 @@ without personal details. A future reminder stays on the existing
 schedule. When follow-up history is missing, the office verifies it
 before deciding whether to contact the customer.
 
+If your office uses ServiceTitan, check whether the Opportunity and
+Estimate Follow Up report can show both estimate status and opportunity
+status with the same anonymous keys. One opportunity can contain several
+estimate options. If one option was sold, ask the office whether any
+remaining open options are alternatives to that sale. When the statuses
+disagree, ask the office to verify the accepted work, the configured sold
+threshold and the job link before deciding which row needs action.
+[ServiceTitan report guide](https://help.servicetitan.com/docs/opportunity-and-estimate-follow-up-report) · [Roofing estimate follow-up guide](https://help.servicetitan.com/residential-s-r/docs/follow-up-on-unsold-estimates-for-roofing)
+
 For an approved-estimate handoff review, also check whether the office
 can identify approved estimates, match each to any existing job, and
 verify whether that job has a dated visit. A blank link needs an office
