@@ -108,6 +108,11 @@ input list, eligibility rules, coverage cutoff, reviewer, acceptance and
 payment terms. A partner may commission the review for one named client
 office, with the payer and responsibilities agreed in writing.
 
+The reviewer checks that each recommended action has a reason and a
+responsible office role, that missing evidence is marked for verification,
+and that the written templates and setup checklist are included. A buyer
+can approve the delivered review before the office acts on the worklist.
+
 Qualification, delivery and questions stay in writing. Before transferring
 redacted exports, we agree on authorized access, permitted tools and data
 retention. Keep customer names, contact details, free-text notes and
