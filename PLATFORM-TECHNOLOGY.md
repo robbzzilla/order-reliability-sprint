@@ -27,9 +27,18 @@ installable buyer package are not available yet.
 | Component license | Selected source and documentation, included rights, the buyer's environment, and separately scoped integration and support. |
 | Technology sale | A defined asset package, transferable rights, retained owner use, transition work and payment terms. |
 
-Platform prices and deal terms are not set. The separate
-[USD 2,500 engineering review](README.md) is a service offer, not a
-platform license price or technology valuation.
+Platform subscription, license and purchase terms are agreed separately.
+
+## Commission a review of an existing adapter
+
+The **USD 2,500 engineering review** covers one broker adapter and four
+failure scenarios. You receive replay fixtures, findings linked to evidence,
+and written retest steps. The ten-business-day period starts after written
+scope approval and receipt of the complete agreed inputs. Your team runs
+any credentialed sandbox checks and owns certification and go-live.
+
+[Read the fictional findings report](BROKER-REVIEW-EXAMPLE.md) ·
+[Request a written scope](README.md#request-a-written-scope)
 
 ## Start with one workflow
 
