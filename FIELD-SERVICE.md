@@ -19,10 +19,11 @@ redacted exports and your office's rules, we:
 
 ## What you receive
 
-A prioritized worklist with evidence references and reasons, two written
-templates for office review, and a configuration checklist for your existing
-CRM. Missing evidence is marked for verification rather than treated as
-proof that work was missed.
+You receive a prioritized worklist, two written templates for office
+review, and a configuration checklist for your existing CRM. Each
+unresolved handoff names the office role that should act, the decision
+it needs to make, and the redacted evidence behind that decision. Missing
+evidence gets a verification action before the office decides what to do.
 
 Your office controls every customer message, scheduling decision and CRM
 change. The review uses exports; it does not require a new software purchase
