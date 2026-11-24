@@ -89,12 +89,18 @@ disagree, ask the office to verify the accepted work, the configured sold
 threshold and the job link before deciding which row needs action.
 [ServiceTitan report guide](https://help.servicetitan.com/docs/opportunity-and-estimate-follow-up-report) · [Roofing estimate follow-up guide](https://help.servicetitan.com/residential-s-r/docs/follow-up-on-unsold-estimates-for-roofing)
 
-For an approved-estimate handoff review, also check whether the office
-can identify approved estimates, match each to any existing job, and
-verify whether that job has a dated visit. A blank link needs an office
-check before anyone opens a job. If the job or schedule evidence is
-unavailable, we can agree on an estimate-only review and leave the
-handoff unverified.
+Choose the review that fits the evidence your office can provide.
+
+- **Estimate queue.** Use the redacted estimate export and follow-up history
+  to decide which open estimates are ready for office review. If you can
+  supply only these records, job and visit status stay unverified.
+- **Approved estimate handoff.** Add matching job records and a dated
+  schedule to check which approved estimates already have a job or visit.
+  A blank job link goes to the office for verification before anyone opens
+  a job.
+
+Both checks can cover the same location and estimate queue when the office
+has the matching export and agrees on the cutoff.
 
 If your office uses Housecall Pro and one approved estimate depends on
 price book items, check whether you can provide the approved estimate and
@@ -131,7 +137,7 @@ credentials out of the initial inquiry.
 
 ## Request a written scope
 
-[Request an estimate review scope](mailto:orderreliabilitysprint@gmail.com?subject=Open%20estimate%20review%20pilot&body=Hi%20Robert%2C%0D%0A%0D%0AI%27d%20like%20to%20discuss%20this%20pilot.%0D%0A%0D%0AOffice%20location%20and%20CRM%3A%20%0D%0AEstimate%20or%20scheduling%20gap%3A%20%0D%0AAvailable%20exports%20%28high-level%20only%29%3A%20%0D%0AWhen%20your%20office%20needs%20the%20worklist%20%28if%20known%29%3A%20%0D%0AWho%20would%20commission%20and%20review%20the%20pilot%3A%20%0D%0AWhere%20did%20you%20find%20this%20offer%3F%20%28optional%29%20). If you write from your email app, use **orderreliabilitysprint@gmail.com** and the subject **Open estimate review pilot**.
+[Request an estimate review scope](mailto:orderreliabilitysprint@gmail.com?subject=Open%20estimate%20review%20pilot&body=Hi%20Robert%2C%0D%0A%0D%0AI%27d%20like%20to%20discuss%20this%20pilot.%0D%0A%0D%0AOffice%20location%20and%20CRM%3A%20%0D%0APriority%20%28estimate%20queue%2C%20approved%20estimate%20handoff%2C%20or%20both%29%3A%20%0D%0AAvailable%20redacted%20exports%20%28estimate%20history%2C%20jobs%20and%20schedule%2C%20high-level%20only%29%3A%20%0D%0AWhen%20your%20office%20needs%20the%20worklist%20%28if%20known%29%3A%20%0D%0AWho%20would%20commission%20and%20review%20the%20pilot%3A%20%0D%0AWhere%20did%20you%20find%20this%20offer%3F%20%28optional%29%20). If you write from your email app, use **orderreliabilitysprint@gmail.com** and the subject **Open estimate review pilot**.
 Start with a high-level summary. We will confirm fit and send a written
 scope with the fixed fee, deliverables and payment terms. Your approver can
 approve that scope in the same thread. If you found us through a directory
