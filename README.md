@@ -27,6 +27,9 @@ readout. Each agreed case is marked **passed**, **failed** or
 
 ### Example findings from a synthetic replay
 
+[Open the fictional findings report](BROKER-REVIEW-EXAMPLE.md) for the
+expected results, evidence gaps and written retest steps.
+
 | Scenario | Broker filled shares | Application filled shares | Finding |
 | --- | ---: | ---: | --- |
 | Duplicate delivery | 10 | 20 | Review. The application counted execution F101 twice. |
