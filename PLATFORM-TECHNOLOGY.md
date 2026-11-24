@@ -78,6 +78,23 @@ prepared from approved files without brokerage access.
 Use it to check whether the fields would support your review process.
 We agree on exact report fields with the buyer before kickoff.
 
+### What a repeat review would show
+
+A follow-on report uses the same exception references as the first report.
+It records what the new evidence resolved, which questions remain open,
+and which exceptions appeared after the previous cutoff. For example:
+
+| Fictional reference | Prior report | Evidence at the next cutoff | Repeat report |
+| --- | --- | --- | --- |
+| E01 | Broker outcome unverified | Complete broker evidence matches the original attempt and shows a terminal status. | Resolved with the matching evidence reference. |
+| E02 | Retry outcome unverified | The new export leaves out the relevant route. | Carried forward with the coverage gap. |
+| E03 | No exception in the prior report | A separate submission has an unresolved outcome after the prior cutoff. | New exception for the engineering reviewer. |
+
+This example has two open exceptions at each cutoff. The second report
+shows one resolved, one carried forward and one new. It records evidence
+disposition only. A buyer can use the first evaluation to decide whether
+a repeated review is worth commissioning.
+
 Any service or integration scope must define customer data and access
 boundaries. The customer retains control of its brokerage accounts,
 trading decisions and deployment.
