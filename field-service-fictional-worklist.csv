@@ -1,7 +1,11 @@
-"Record type","Fictional estimate ID","Evidence at the agreed cutoff","Office action"
-"Worklist","Q104","The quote is past the agreed review window, and the office confirms it has not followed up.","Office reviews whether to follow up."
-"Worklist","Q109","The estimate is approved, and the office confirms there is no matching job.","Route to the person who opens jobs."
-"Worklist","Q122","The office confirms job J122 exists and has no dated visit.","Scheduler uses the existing job J122."
-"Worklist","Q118","The export is missing the contact history.","Office verifies the history before acting."
-"Worklist","Q112","The customer opted out.","Exclude from follow-up."
-"Audit closure","Q121","The office verified a matching job and dated visit.","No action."
+"Record type","Fictional estimate ID","Evidence at the agreed cutoff","Office action","Fictional quote value (USD)"
+"Worklist","Q104","The quote is past the agreed review window, and the office confirms it has not followed up.","Office reviews whether to follow up.",4100
+"Worklist","Q107","The quote is past the agreed review window, and the office confirms it has not followed up.","Office reviews whether to follow up.",6300
+"Worklist","Q109","The estimate is approved, and the office confirms there is no matching job.","Route to the person who opens jobs.",3200
+"Worklist","Q122","The office confirms job J122 exists and has no dated visit.","Scheduler uses the existing job J122.",2450
+"Worklist","Q120","The customer requested a change to the estimate.","Estimator reviews the revision.",4000
+"Worklist","Q118","The export is missing the contact history.","Office verifies the history before acting.",2700
+"Worklist","Q115","The office recently followed up.","Wait until the agreed review window opens.",1750
+"Worklist","Q112","The customer opted out.","Exclude from follow-up.",2900
+"Worklist","Q106","This is an earlier revision of Q107.","Close the duplicate and keep the current revision Q107.",5800
+"Audit closure","Q121","The office verified a matching job and dated visit.","No action.",1200
