@@ -1,6 +1,6 @@
 # Order Reliability Sprint
 
-[Broker integration review](#what-we-check) · [Roofing and HVAC estimate review](FIELD-SERVICE.md) · [Trading platform technology](PLATFORM-TECHNOLOGY.md)
+[Broker integration review](#what-we-check) · [White-label partner review](#white-label-partner-review) · [Roofing and HVAC estimate review](FIELD-SERVICE.md) · [Trading platform technology](PLATFORM-TECHNOLOGY.md)
 
 **One broker integration. Four failure scenarios. Ten business days.**
 
@@ -67,6 +67,22 @@ identifiers out of the inquiry. Send any walkthrough questions in the
 same email thread.
 
 Robert Hampton | Order Reliability Sprint
+
+## White-label partner review
+
+Engineering firms can commission the **USD 2,500** review for one client
+broker integration. Your team manages the client relationship and can share
+the agreed findings under its brand. The client’s engineering team retains
+credentials and owns formal certification and go-live. The review uses
+approved redacted files or sandbox results and disclosed AI assistance.
+
+Before kickoff, we agree in writing on the evidence you may share, who
+may receive the report, who accepts the findings, and who pays. The review
+includes replay instructions, evidence-linked findings and retest steps.
+The ten-business-day window starts after written scope approval and receipt
+of the complete agreed inputs.
+
+[Request a written partner scope](mailto:orderreliabilitysprint@gmail.com?subject=Broker%20order%20reliability%20pilot&body=Hi%20Robert%2C%0D%0A%0D%0AI%27d%20like%20to%20discuss%20a%20white-label%20broker%20adapter%20review.%0D%0A%0D%0ABroker%20or%20adapter%3A%0D%0ARelease%20target%20and%20scenario%3A%0D%0AAvailable%20redacted%20evidence%3A%0D%0ACommissioning%20organization%3A%0D%0AReviewer%20and%20payer%2C%20if%20known%3A%0D%0A) · [See the fictional findings report](BROKER-REVIEW-EXAMPLE.md)
 
 ## Review for roofing and HVAC offices
 
