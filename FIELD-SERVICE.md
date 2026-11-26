@@ -8,8 +8,9 @@ check the handoff from approved estimates to jobs and scheduling.
 ## What we review
 
 We agree on one location, one CRM, one estimate queue and a period of up
-to 60 days, including the batch size and evidence coverage. Using authorized,
-redacted exports and your office's rules, we:
+to 60 days. We confirm which event puts an estimate in that range, such as
+when it was sent or approved, and agree on the cutoff and batch coverage.
+Using authorized, redacted exports and your office's rules, we:
 
 - Group estimate revisions so the same opportunity is not counted twice.
 - Flag open estimates due for office review, while excluding opted-out,
@@ -137,7 +138,7 @@ credentials out of the initial inquiry.
 
 ## Request a written scope
 
-[Request an estimate review scope](mailto:orderreliabilitysprint@gmail.com?subject=Open%20estimate%20review%20pilot&body=Hi%20Robert%2C%0D%0A%0D%0AI%27d%20like%20to%20discuss%20this%20pilot.%0D%0A%0D%0AOffice%20location%20and%20CRM%3A%20%0D%0APriority%20%28estimate%20queue%2C%20approved%20estimate%20handoff%2C%20or%20both%29%3A%20%0D%0AAvailable%20redacted%20exports%20%28estimate%20history%2C%20jobs%20and%20schedule%2C%20high-level%20only%29%3A%20%0D%0AWhen%20your%20office%20needs%20the%20worklist%20%28if%20known%29%3A%20%0D%0AWho%20would%20commission%20and%20review%20the%20pilot%3A%20%0D%0AWhere%20did%20you%20find%20this%20offer%3F%20%28optional%29%20). If you write from your email app, use **orderreliabilitysprint@gmail.com** and the subject **Open estimate review pilot**.
+[Request an estimate review scope](mailto:orderreliabilitysprint@gmail.com?subject=Open%20estimate%20review%20pilot&body=Hi%20Robert%2C%0D%0A%0D%0AI'd%20like%20to%20discuss%20this%20pilot.%0D%0A%0D%0AOffice%20location%20and%20CRM%3A%20%0D%0AEstimate%20date%20range%20and%20event%20%28sent%20or%20approved%2C%20if%20known%29%3A%20%0D%0APriority%20%28estimate%20queue%2C%20approved%20estimate%20handoff%2C%20or%20both%29%3A%20%0D%0AAvailable%20redacted%20exports%20%28estimate%20history%2C%20jobs%20and%20schedule%2C%20high-level%20only%29%3A%20%0D%0AWhen%20your%20office%20needs%20the%20worklist%20%28if%20known%29%3A%20%0D%0AWho%20would%20approve%20the%20scope%2C%20pay%20and%20review%20the%20worklist%20%28if%20known%29%3A%20%0D%0AWhere%20did%20you%20find%20this%20offer%3F%20%28optional%29%20). If you write from your email app, use **orderreliabilitysprint@gmail.com** and the subject **Open estimate review pilot**.
 Start with a high-level summary. We will confirm fit and send a written
 scope with the fixed fee, deliverables and payment terms. Your approver can
 approve that scope in the same thread. If you found us through a directory
