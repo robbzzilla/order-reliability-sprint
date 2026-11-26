@@ -118,6 +118,24 @@ include separate evidence of the dated visit. If your export cannot link
 the quote to a job, the office verifies the link before opening or scheduling work.
 [Simpro quote conversion guide](https://developer.simprogroup.com/apidoc/?page=07adc9c3c19b7c17e7309e86c22161a2)
 
+## Review draft-based follow-up
+
+If your office prepares follow-up drafts, include each draft's estimate
+revision and approval status alongside the redacted send history. Use the
+actual outbound timestamp and message reference to establish when a
+follow-up went out. If a draft is still in the review queue, the worklist
+can point the office to that item before anyone prepares a second message.
+
+| Fictional evidence | Worklist decision |
+| --- | --- |
+| The office approved a draft for the current estimate. The export shows no matching send record. | Ask the office to verify whether it went out. Keep the existing draft in view. |
+| The send record matches the current revision and its timestamp is within the agreed waiting period. | Wait for the existing review window. |
+| The send record matches an earlier revision only. | Ask the office to verify which message applies to the current estimate. |
+| The contact preference changed to opt-out while the draft was pending. | Exclude customer follow-up and flag the pending draft for office review. |
+
+The office uses its own records to confirm sending and any later delivery
+or reply. The review needs only redacted references and status fields.
+
 ## Scope and delivery
 
 The five-business-day delivery period begins after **written scope approval
